@@ -13,6 +13,7 @@ The whole process is to learn _**the data processing and analysis**_
 The below csv files and figures show you the results with the python code in this repo
 ***
 ### 2-1: Call csv file and rename a column
+### This work is a combination with Chapter 1 and you should complete the Chapter one first
 ### To proceed this chapter, you need to check [SalutePinkWink-Pivot-Seaborn-Folium](https://github.com/JohnkeyLee/SalutePinkWink-Pivot-Seaborn-Folium) first
 
 [2-1.csv](https://github.com/JohnkeyLee/SalutePinkWink-chapter-2/files/11240882/2-1.csv) (No result for crime_analysis.head())
